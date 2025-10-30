@@ -6,7 +6,7 @@
 <h6 align="center">
   <a href="#-features">Features</a>
   ·
-  <a href="#-setting-up">Setting Up</a>
+  <a href="#-setting-up">Setting-Up</a>
   ·
   <a href="#-documentation">Documentation</a>
   ·
